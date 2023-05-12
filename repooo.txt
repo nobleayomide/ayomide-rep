@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 fgsdgdggdbd ytvhbtbrjjsbgjkb
+=======
+fgsdgdggdbd
+Hey mr ay can you add some more text
+>>>>>>> 3ec10e5ba3b4e3f4c47f5ed96c29c5535d89adbf
